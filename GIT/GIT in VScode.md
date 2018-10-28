@@ -15,4 +15,12 @@ git config --global user.email "name@gxxxx.com"
 
 ```git clone```
 
-1.en copy the https in the line
+2.copy the https in the line
+
+## Commit
+
+Make changes in the code and do a Commit
+
+## Synchornize
+
+Click on the small sync icon (left under)
